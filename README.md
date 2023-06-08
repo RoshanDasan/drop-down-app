@@ -1,6 +1,8 @@
 # MultiSelect Dropdown Component
 
 A customizable MultiSelect Dropdown component with checkboxes built using React.
+I used vite to make the app more efficient and bug free
+Yarn for package manager
 
 ## Features
 
@@ -13,8 +15,7 @@ A customizable MultiSelect Dropdown component with checkboxes built using React.
 Install the package using yarn:
     clone the app
     
-         git clone https://github.com/RoshanDasan/drop-down-app.git
+       git clone https://github.com/RoshanDasan/drop-down-app.git
+       yarn install
+       yarn dev
        
-
-```shell
-npm install multiselect-dropdown-react
